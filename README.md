@@ -1,2 +1,2 @@
-# previsao_tempo
-Um app onde mostra a previsão do tempo no Estado determinado.
+# previsao do tempo
+Um app onde mostra o clima em tempo real no Estado determinado.
